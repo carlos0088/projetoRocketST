@@ -19,7 +19,7 @@ Este é um projeto desenvolvido por Carlos Júnior, inspirado na aula do Mayk Br
 
 ## 📸 Imagem do Projeto
 
-![Screenshot do Projeto](./Assets/avatar.png)
+![Imagem do projeto](Assets/screenshot.png)
 
 ## 🔗 Links úteis (exemplos)
 
